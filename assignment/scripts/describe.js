@@ -129,19 +129,24 @@ if (number >= 2) {
 
 
 
-//4. We start with three variables -- colorOne is set to 'blue' and 
-// colorTwo is set to 'red', and mix is set to true. We check if mix is true 
+//4. We start with three variables -- colorOne is set to 'blue' and
+// colorTwo is set to 'red', and mix is set to true. We check if mix is true
 // -- it is, so we set colorOne and colorTwo to 'purple'
-
+ 
+ 
+// FIX - Switch colors so colorOne is 'blue' and  colorTwo is 'red'
+ 
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
-
+ 
 if (mix === true) {
-  colorOne = 'purple';
+ colorOne = 'purple';
+// Add colorTwo = 'purple';
 }
 */
+
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
