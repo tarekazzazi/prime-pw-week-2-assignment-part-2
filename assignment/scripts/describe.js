@@ -73,57 +73,58 @@ console.log(secret)
 
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
-
+// We start with 3 variables isStudent is set to true, age is set to 34, zip is set to 55407
+// Next create a conditional to check if isStudent equals true and zip is greater than 80000
+// log the console `You're a student on the West Coast!` -- if isStudnet is false or age is lessthan 30 console log 'What are your hobbies?'-- If isStudent equals true console log 'Welcome to Prime!'
+// If nothing else works console log 'How about the weather?'
+ 
+ 
 //CODE
 /*
 let isStudent = true;
 let age = 34;
 let zip = 55407;
-
+ 
 if (isStudent === true && zip > 80000 ) {
-  console.log(`You're a student on the West Coast!`);
+ console.log(`You're a student on the West Coast!`);
 } else if (isStudent === false || age < 30) {
-  console.log('What are your hobbies?');
+ console.log('What are your hobbies?');
 } else if (isStudent === true) {
-  console.log('Welcome to Prime!');
+ console.log('Welcome to Prime!');
 } else {
-  console.log('How about the weather?')
+ console.log('How about the weather?')
 }
-
+ 
 */
-
-
-
-
+ 
+ 
+ 
+ 
 // REVERSE
-// Now, for questions 4-6, we'll give you a description and some code. 
+// Now, for questions 4-6, we'll give you a description and some code.
 // Some of the code will NOT match the description.
 // Comment above the problem code, and describe a potential solution.
 // Look closely -- things are logically incorrect or missing and wrong in the code!
-
+ 
 // EXAMPLE
 // 0. (DESCRIPTION OF CORRECT BEHAVIOR)
 // We make a variable called number and set it to 1 as a number.
 // Then we increment the number variable. Number is now 2.
-// We check if number is greater than or equal to 2. 
+// We check if number is greater than or equal to 2.
 // -- it is, so we console.log 'yes'
-
+ 
 //CODE
 /*
 let number = 1;
-
-// FIX - number-- decrements number, but the instructions ask to increment. 
+ 
+// FIX - number-- decrements number, but the instructions ask to increment.
 // Should be number++.
-number--; 
-
+number--;
+ 
 if (number >= 2) {
-  console.log('yes');
+ console.log('yes');
 }
-
+ 
 */
 
 
