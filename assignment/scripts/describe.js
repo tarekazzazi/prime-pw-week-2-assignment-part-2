@@ -163,17 +163,15 @@ if (temp > 39 || time >= 4) {
 
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
-// We check if age is greater than or equal to minAge 
+// We check if age is greater than or equal to minAge
 // -- it is, so we console.log 'enter'.
-
 /*
 let age = 21;
 const minAge = 21;
-
+//  FIX - should be (age >= minAge) { console.log('enter'); } else { console.log('no entry');}
 if(minAge <= age) {
-  console.log('no entry');
+ console.log('no entry');
 } else {
-  console.log('enter');
-}
-*/
+ console.log('enter');
+} */
 
