@@ -26,23 +26,24 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
-
+// First we Make a variable called name and set it equal to 'Dane'
+// Next Check to see if name equals Mary
+// If name does equal  Mary we console.log 'Hi, Mary!'
+// If name does not equal Mary we console.log 'How do you do?'
+ 
 //CODE
 /*
 let name = 'Dane';
-
+ 
 if (name === 'Mary') {
-  console.log('Hi, Mary!');
+ console.log('Hi, Mary!');
 } else {
-  console.log('How do you do?');
+ console.log('How do you do?');
 }
-
-
+ 
+ 
 */
+
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // 
