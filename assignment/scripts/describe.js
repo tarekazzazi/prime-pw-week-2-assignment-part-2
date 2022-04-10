@@ -46,29 +46,31 @@ if (name === 'Mary') {
 
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
-
+//  A variable named secret is made and left empty
+// Another variable named code is created and set equal to the number 123
+// A conditional is made so when code equals 123 the string 'super' is added to the variable secret and the variable code  changes to code times 2
+// Another conditional is created to check if code is greater than 250, if true change the variable secret to the string 'duper'
+// we console log secret
+ 
 //CODE
 /*
 let secret;
-
+ 
 let code = 123;
-
+ 
 if(code === 123) {
-  secret = 'super';
-  code = code * 2;
+ secret = 'super';
+ code = code * 2;
 }
-
+ 
 if (code > 250) {
-  secret = 'duper'
+ secret = 'duper'
 }
-
+ 
 console.log(secret)
-
+ 
 */
+
 
 // 3. WRITE YOUR DESCRIPTION HERE
 // 
